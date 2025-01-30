@@ -1,0 +1,33 @@
+=== Initial Dataset Information ===
+Total Rows: 23906
+Total Columns: 16
+
+Missing Values:
+
+Car_id           0
+Date             0
+Customer Name    1
+Gender           0
+Annual Income    0
+Dealer_Name      0
+Company          0
+Model            0
+Engine           0
+Transmission     0
+Color            0
+Price            0
+Dealer_No        0
+Body Style       0
+Phone            0
+Dealer_Region    0
+
+
+=== Partition Summary ===
+Customers Table: 23555 rows
+Dealers Table: 196 rows
+Cars Table: 23555 rows
+Sales Table: 23555 rows
+
+
+=== Export Details ===
+Data successfully exported to 'processed_car_sales.xlsx'.
