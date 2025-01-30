@@ -4,7 +4,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for car sales
 
 ## Project Structure
 
-📂 azure-car-sales-etl │── 📂 data # Raw and cleaned datasets (CSV, Excel) │── 📂 scripts # Python preprocessing and ETL scripts │── 📂 sql # SQL scripts for database creation │── 📂 pipeline # Azure Data Factory templates (JSON) │── 📂 reports # Power BI dashboard files (.pbix) │── 📂 docs # Documentation and setup guide │── .gitignore # Ignore unnecessary files (e.g., large datasets) │── README.md # Project overview and setup instructions │── requirements.txt # Python dependencies 
+📂 azure-car-sales-etl │── 📂 data # Raw and cleaned datasets (CSV, Excel) │── 📂 scripts # Python preprocessing and ETL scripts │── 📂 sql # SQL scripts for database creation │── 📂 pipeline # Azure Data Factory templates (JSON) │── 📂 reports # Power BI dashboard files (.pbix) │── 📂 docs # Documentation and setup guide 
 
 
 ## Project Components
